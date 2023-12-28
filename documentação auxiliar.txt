@@ -1,0 +1,23 @@
+Maven
+Java17
+Spring Boot 3.1.7
+
+Project Metadata
+Group
+com.seubarbosa
+Artifact
+cardapio
+Name
+cardapio
+Description
+Cardapio Digital
+Package name
+com.seubarbosa.cardapio
+Packaging
+Jar
+
+Dependecies
+
+spring Boot DevTools
+spring web
+lombok

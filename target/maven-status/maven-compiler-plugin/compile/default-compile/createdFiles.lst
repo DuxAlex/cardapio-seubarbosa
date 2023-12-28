@@ -1,0 +1,4 @@
+com\seubarbosa\cardapio\CardapioApplication.class
+com\seubarbosa\cardapio\food\FoodRepository.class
+com\seubarbosa\cardapio\controller\FoodController.class
+com\seubarbosa\cardapio\food\Food.class
